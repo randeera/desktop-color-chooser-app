@@ -9,10 +9,10 @@ The Color Chooser App is a simple desktop application developed using Java and J
 - Real-time update of the color square based on user input.
 
 ## Images
-![Screenshot from 2023-12-27 12-56-35.png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-27%2012-56-35.png)
-![Screenshot from 2023-12-27 12-56-21.png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-27%2012-56-21.png)
-![Screenshot from 2023-12-27 12-56-15.png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-27%2012-56-15.png)
-![Screenshot from 2023-12-27 12-54-55.png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-27%2012-54-55.png)
+![Color Chooser App](src/main/resources/asset.img/1.png)
+![Color Chooser App](src/main/resources/asset.img/2.png)
+![Color Chooser App](src/main/resources/asset.img/3.png)
+![Color Chooser App](src/main/resources/asset.img/4.png)
 
 ## Getting Started
 
