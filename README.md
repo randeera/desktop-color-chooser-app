@@ -44,3 +44,13 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 This project is licensed under the MIT License
+
+<hr>
+
+### ☛ Contact Me
+- Email-  mailto:khkrandeera@gmail.com
+- Linkedin-https://www.linkedin.com/in/randeera/
+
+### ☛ Follow Me
+- GitHub-https://github.com/randeera
+- Linkedin-https://www.linkedin.com/in/randeera/
