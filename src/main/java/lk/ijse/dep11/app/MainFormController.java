@@ -17,7 +17,7 @@ public class MainFormController {
     public Rectangle shpPreview;
     public TextField txtColor;
     public TextField txtGreen;
-
+    // initialize method
     public void initialize() {
         txtRed.setTooltip(new Tooltip("RED Value"));
         txtGreen.setTooltip(new Tooltip("GREEN Value"));
@@ -25,6 +25,7 @@ public class MainFormController {
         txtAlpha.setTooltip(new Tooltip("ALPHA Value"));
         txtColor.setTooltip(new Tooltip("COLOR code"));
 
+        // Add Listners
         slrRed.valueProperty().addListener(e -> {
             txtRed.setText(String.format("%.0f", slrRed.getValue()));
             updateColor();
