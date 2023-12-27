@@ -29,7 +29,7 @@
             <Font name="Ubuntu" size="14.0" />
          </font>
       </Label>
-      <Label layoutX="114.0" layoutY="70.0" text="Copyright © 2023 DEP 11. All Rights Reserved.">
+      <Label layoutX="114.0" layoutY="70.0" text="Copyright © Kaveendra Randeera. All Rights Reserved.">
          <font>
             <Font name="Ubuntu" size="14.0" />
          </font>
